@@ -1,4 +1,4 @@
-# Global Perchlorate Hazards in Natural Water and Regulation Strategies for Related Industries
+# Mapping and Mitigating Global Perchlorate Hazards in Drinking Water Sources
 
 ## Code Description
 
